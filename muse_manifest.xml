@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="appries.com" resolutions="1x" timestamp="1532735084000">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="appries.com" resolutions="1x" timestamp="1532735281799">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="insti-login.css" crc="3811238655" ref="insti-login"/>
@@ -12,8 +12,8 @@
     <file name="edit.css" crc="64230813" ref="edit"/>
     <file name="marksenter.css" crc="281175138" ref="marksenter"/>
     <file name="student-login.css" crc="376566384" ref="student-login"/>
-    <file name="insti-choose.css" crc="479943802" ref="insti-choose"/>
-    <file name="nomq_insti-choose.css" crc="151407968" ref="insti-choose"/>
+    <file name="insti-choose.css" crc="304989223" ref="insti-choose"/>
+    <file name="nomq_insti-choose.css" crc="177662438" ref="insti-choose"/>
     <file name="std.css" crc="63579777" ref="std"/>
     <file name="teacher-assign.css" crc="72158485" ref="teacher-assign"/>
     <file name="details.css" crc="3973542876" ref="details"/>
@@ -73,7 +73,7 @@
   </folder>
   <file name="index.html" crc="4089828783" seo="true" mt="1532733775123" redirect="true"/>
   <file name="insti-login.html" crc="228586060" seo="true" mt="1532121497629" redirect="true"/>
-  <file name="insti-choose.html" crc="3943247347" seo="true" mt="1532734831285" redirect="true"/>
+  <file name="insti-choose.html" crc="4279567156" seo="true" mt="1532735270594" redirect="true"/>
   <file name="details.html" crc="372014063" seo="true" mt="1532261608387" redirect="true"/>
   <file name="student-login.html" crc="321763025" seo="true" mt="1532733324105" redirect="true"/>
   <file name="teacherlogin.html" crc="453200632" seo="true" mt="1532288297283" redirect="true"/>

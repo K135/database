@@ -1,0 +1,88 @@
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="appries.com" resolutions="1x" timestamp="1532734303732">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="insti-login.css" crc="3811238655" ref="insti-login"/>
+    <file name="class-selection.css" crc="76405380" ref="class-selection"/>
+    <file name="teacherlogin.css" crc="3869835100" ref="teacherlogin"/>
+    <file name="admin.css" crc="58371178" ref="admin"/>
+    <file name="graph.css" crc="4261924756" ref="graph"/>
+    <file name="nomq_graph.css" crc="178598671" ref="graph"/>
+    <file name="index.css" crc="3899589038" ref="index"/>
+    <file name="admin-marks.css" crc="58371178" ref="admin-marks"/>
+    <file name="edit.css" crc="64230813" ref="edit"/>
+    <file name="marksenter.css" crc="281175138" ref="marksenter"/>
+    <file name="student-login.css" crc="376566384" ref="student-login"/>
+    <file name="insti-choose.css" crc="62687121" ref="insti-choose"/>
+    <file name="nomq_insti-choose.css" crc="3834304520" ref="insti-choose"/>
+    <file name="std.css" crc="63579777" ref="std"/>
+    <file name="teacher-assign.css" crc="72158485" ref="teacher-assign"/>
+    <file name="details.css" crc="3973542876" ref="details"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:insti-login:insti-choose:details:student-login:teacherlogin:edit:class-selection:marksenter:std:admin:admin-marks:teacher-assign:graph"/>
+    <file name="museutils.js" crc="340535759" ref="index:insti-login:insti-choose:details:student-login:teacherlogin:edit:class-selection:marksenter:std:admin:admin-marks:teacher-assign:graph"/>
+    <file name="whatinput.js" crc="86476730" ref="index:insti-login:insti-choose:details:student-login:teacherlogin:edit:class-selection:marksenter:std:admin:admin-marks:teacher-assign:graph"/>
+    <file name="museconfig.js" crc="4286661555" ref="index:insti-login:insti-choose:details:student-login:teacherlogin:edit:class-selection:marksenter:std:admin:admin-marks:teacher-assign:graph"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index:insti-login:insti-choose:details:student-login:teacherlogin:edit:class-selection:marksenter:std:admin:admin-marks:teacher-assign:graph"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index:insti-login:insti-choose:details:student-login:teacherlogin:edit:class-selection:marksenter:std"/>
+    <file name="require.js" crc="7928878" ref="index:insti-login:insti-choose:details:student-login:teacherlogin:edit:class-selection:marksenter:std:admin:admin-marks:teacher-assign:graph"/>
+    <file name="webpro.js" crc="4059564322" ref="insti-login:insti-choose:details:student-login:teacherlogin:edit:class-selection:marksenter"/>
+    <file name="musewpslideshow.js" crc="3862962738" ref="insti-login:insti-choose:details:student-login:teacherlogin:edit:class-selection:marksenter"/>
+    <file name="jquery.museoverlay.js" crc="4147669564" ref="insti-login:insti-choose:details:student-login:teacherlogin:edit:class-selection:marksenter"/>
+    <file name="touchswipe.js" crc="4075097462" ref="insti-login:insti-choose:details:student-login:teacherlogin:edit:class-selection:marksenter"/>
+    <file name="musewpdisclosure.js" crc="3883500470" ref="insti-choose:class-selection"/>
+    <file name="jquery.museresponsive.js" crc="527716135" ref="insti-choose:graph"/>
+  </folder>
+  <folder name="images">
+    <file name="appries-wallpaper1.jpg" crc="3858317335" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="insti-login:insti-choose:details:student-login:teacherlogin:edit:marksenter:std:graph"/>
+    <file name="4131076475_82e7a9e01d_b.jpg" crc="3983534423" ref="insti-login">
+      <caption webpage="insti-login" alt=""/>
+    </file>
+    <file name="maxresdefault.jpg" crc="366712150" ref="insti-choose">
+      <caption webpage="insti-choose" alt=""/>
+      <caption webpage="insti-choose" alt=""/>
+    </file>
+    <file name="empty-profile.jpg" crc="4239535295" seo="true" ref="details:edit">
+      <caption webpage="edit" alt=""/>
+      <caption webpage="details" alt=""/>
+    </file>
+    <file name="blur-background-3840x2400-spectrum-electromagnetic-4k-901.jpg" crc="249616441" ref="details">
+      <caption webpage="details" alt=""/>
+    </file>
+    <file name="wallpaper2you_481759.jpg" crc="269646145" ref="student-login">
+      <caption webpage="student-login" alt=""/>
+    </file>
+    <file name="21-motion-blur-speed-photographypreview.jpg" crc="229133194" ref="teacherlogin">
+      <caption webpage="teacherlogin" alt=""/>
+    </file>
+    <file name="dark-blur-26943-1920x1080.jpg" crc="4013616346" ref="edit">
+      <caption webpage="edit" alt=""/>
+    </file>
+    <file name="new.jpg" crc="3984865242" ref="class-selection">
+      <caption webpage="class-selection" alt=""/>
+    </file>
+    <file name="blur_bridge_wallpaper_by_prolite-d598z4k.jpg" crc="482556056" ref="marksenter">
+      <caption webpage="marksenter" alt=""/>
+    </file>
+    <file name="1487868799-urvi-s-passport-size-photo.jpg" crc="4237745485" ref="std">
+      <caption webpage="std" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="4089828783" seo="true" mt="1532733775123" redirect="true"/>
+  <file name="insti-login.html" crc="228586060" seo="true" mt="1532121497629" redirect="true"/>
+  <file name="insti-choose.html" crc="530915935" seo="true" mt="1532210078069" redirect="true"/>
+  <file name="details.html" crc="372014063" seo="true" mt="1532261608387" redirect="true"/>
+  <file name="student-login.html" crc="321763025" seo="true" mt="1532733324105" redirect="true"/>
+  <file name="teacherlogin.html" crc="453200632" seo="true" mt="1532288297283" redirect="true"/>
+  <file name="edit.html" crc="4215008872" seo="true" mt="1532210463789" redirect="true"/>
+  <file name="class-selection.html" crc="4016447121" seo="true" mt="1532732933193" redirect="true"/>
+  <file name="marksenter.html" crc="3993529341" seo="true" mt="1532733277535" redirect="true"/>
+  <file name="std.html" crc="285205481" seo="true" mt="1532732007175" redirect="true"/>
+  <file name="admin.html" crc="221920960" seo="true" mt="1532117052394" redirect="false"/>
+  <file name="admin-marks.html" crc="3766885360" seo="true" mt="1532123137690" redirect="false"/>
+  <file name="teacher-assign.html" crc="9823003" seo="true" mt="1532733156307" redirect="true"/>
+  <file name="graph.html" crc="96841730" seo="true" mt="1532732152202" redirect="true"/>
+</manifest>

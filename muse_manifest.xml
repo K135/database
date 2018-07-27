@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="appries.com" resolutions="1x" timestamp="1532734843383">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="appries.com" resolutions="1x" timestamp="1532735084000">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="insti-login.css" crc="3811238655" ref="insti-login"/>
@@ -79,7 +79,7 @@
   <file name="teacherlogin.html" crc="453200632" seo="true" mt="1532288297283" redirect="true"/>
   <file name="edit.html" crc="4215008872" seo="true" mt="1532210463789" redirect="true"/>
   <file name="class-selection.html" crc="4016447121" seo="true" mt="1532732933193" redirect="true"/>
-  <file name="marksenter.html" crc="3993529341" seo="true" mt="1532733277535" redirect="true"/>
+  <file name="marksenter.html" crc="3995105792" seo="true" mt="1532735081340" redirect="true"/>
   <file name="std.html" crc="285205481" seo="true" mt="1532732007175" redirect="true"/>
   <file name="admin.html" crc="221920960" seo="true" mt="1532117052394" redirect="false"/>
   <file name="admin-marks.html" crc="3766885360" seo="true" mt="1532123137690" redirect="false"/>

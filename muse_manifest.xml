@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="appries.com" resolutions="1x" timestamp="1532770428305">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="appries.com" resolutions="1x" timestamp="1532778375463">
   <folder name="assets">
     <file name="rubix-loader.gif" crc="4235615436" seo="true" mt="1530961533000"/>
   </folder>
@@ -11,7 +11,7 @@
     <file name="graph.css" crc="3904076194" ref="graph"/>
     <file name="nomq_graph.css" crc="4105743776" ref="graph"/>
     <file name="index.css" crc="4264160342" ref="index"/>
-    <file name="admin-marks.css" crc="3884576544" ref="admin-marks"/>
+    <file name="admin-marks.css" crc="247193596" ref="admin-marks"/>
     <file name="edit.css" crc="3794566070" ref="edit"/>
     <file name="marksenter.css" crc="4279345157" ref="marksenter"/>
     <file name="student-login.css" crc="400068095" ref="student-login"/>
@@ -21,7 +21,7 @@
     <file name="teacher-assign.css" crc="3783928425" ref="teacher-assign"/>
     <file name="details.css" crc="206815672" ref="details"/>
     <file name="master_a-master.css" crc="4069672882" ref="insti-login:class-selection:teacherlogin:admin:graph:index:admin-marks:edit:marksenter:student-login:insti-choose:std:teacher-assign:details"/>
-    <file name="nomq_preview_master_a-master.css" crc="3824530138" ref="insti-login:class-selection:teacherlogin:admin:graph:index:admin-marks:edit:marksenter:student-login:insti-choose:std:teacher-assign:details"/>
+    <file name="nomq_preview_master_a-master.css" crc="3824530138" ref="insti-login:class-selection:teacherlogin:admin:graph:index:edit:marksenter:student-login:insti-choose:std:teacher-assign:details"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:insti-login:insti-choose:details:student-login:teacherlogin:edit:class-selection:marksenter:std:admin:admin-marks:teacher-assign:graph"/>
@@ -87,7 +87,7 @@
   <file name="marksenter.html" crc="174448811" seo="true" mt="1532743450739" redirect="true"/>
   <file name="std.html" crc="3998417070" seo="true" mt="1532743450739" redirect="true"/>
   <file name="admin.html" crc="4073017860" seo="true" mt="1532770364103" redirect="true"/>
-  <file name="admin-marks.html" crc="3861255727" seo="true" mt="1532743450739" redirect="true"/>
+  <file name="admin-marks.html" crc="10983627" seo="true" mt="1532776149423" redirect="true"/>
   <file name="teacher-assign.html" crc="25103264" seo="true" mt="1532743450739" redirect="true"/>
   <file name="graph.html" crc="4125986701" seo="true" mt="1532743450739" redirect="true"/>
 </manifest>

@@ -1,22 +1,27 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="appries.com" resolutions="1x" timestamp="1532735281799">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="appries.com" resolutions="1x" timestamp="1532737466314">
+  <folder name="assets">
+    <file name="rubix-loader.gif" crc="4235615436" seo="true" mt="1530961533000"/>
+  </folder>
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="insti-login.css" crc="3811238655" ref="insti-login"/>
-    <file name="class-selection.css" crc="76405380" ref="class-selection"/>
-    <file name="teacherlogin.css" crc="3869835100" ref="teacherlogin"/>
-    <file name="admin.css" crc="58371178" ref="admin"/>
-    <file name="graph.css" crc="4261924756" ref="graph"/>
-    <file name="nomq_graph.css" crc="178598671" ref="graph"/>
-    <file name="index.css" crc="3899589038" ref="index"/>
-    <file name="admin-marks.css" crc="58371178" ref="admin-marks"/>
-    <file name="edit.css" crc="64230813" ref="edit"/>
-    <file name="marksenter.css" crc="281175138" ref="marksenter"/>
-    <file name="student-login.css" crc="376566384" ref="student-login"/>
-    <file name="insti-choose.css" crc="304989223" ref="insti-choose"/>
-    <file name="nomq_insti-choose.css" crc="177662438" ref="insti-choose"/>
-    <file name="std.css" crc="63579777" ref="std"/>
-    <file name="teacher-assign.css" crc="72158485" ref="teacher-assign"/>
-    <file name="details.css" crc="3973542876" ref="details"/>
+    <file name="insti-login.css" crc="3973463336" ref="insti-login"/>
+    <file name="class-selection.css" crc="4012388598" ref="class-selection"/>
+    <file name="teacherlogin.css" crc="100570173" ref="teacherlogin"/>
+    <file name="admin.css" crc="3943865529" ref="admin"/>
+    <file name="graph.css" crc="309060839" ref="graph"/>
+    <file name="nomq_graph.css" crc="4211954671" ref="graph"/>
+    <file name="index.css" crc="463187214" ref="index"/>
+    <file name="admin-marks.css" crc="3943865529" ref="admin-marks"/>
+    <file name="edit.css" crc="397014068" ref="edit"/>
+    <file name="marksenter.css" crc="4172974298" ref="marksenter"/>
+    <file name="student-login.css" crc="4092683228" ref="student-login"/>
+    <file name="insti-choose.css" crc="346912847" ref="insti-choose"/>
+    <file name="nomq_insti-choose.css" crc="3879874789" ref="insti-choose"/>
+    <file name="std.css" crc="4288797233" ref="std"/>
+    <file name="teacher-assign.css" crc="256923684" ref="teacher-assign"/>
+    <file name="details.css" crc="4208317955" ref="details"/>
+    <file name="master_a-master.css" crc="210888416" ref="insti-login:class-selection:teacherlogin:admin:graph:index:admin-marks:edit:marksenter:student-login:insti-choose:std:teacher-assign:details"/>
+    <file name="nomq_preview_master_a-master.css" crc="3824530138" ref="insti-login:class-selection:teacherlogin:admin:graph:index:admin-marks:edit:marksenter:student-login:insti-choose:std:teacher-assign"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:insti-login:insti-choose:details:student-login:teacherlogin:edit:class-selection:marksenter:std:admin:admin-marks:teacher-assign:graph"/>
@@ -71,18 +76,18 @@
       <caption webpage="std" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="4089828783" seo="true" mt="1532733775123" redirect="true"/>
-  <file name="insti-login.html" crc="228586060" seo="true" mt="1532121497629" redirect="true"/>
-  <file name="insti-choose.html" crc="4279567156" seo="true" mt="1532735270594" redirect="true"/>
-  <file name="details.html" crc="372014063" seo="true" mt="1532261608387" redirect="true"/>
-  <file name="student-login.html" crc="321763025" seo="true" mt="1532733324105" redirect="true"/>
-  <file name="teacherlogin.html" crc="453200632" seo="true" mt="1532288297283" redirect="true"/>
-  <file name="edit.html" crc="4215008872" seo="true" mt="1532210463789" redirect="true"/>
-  <file name="class-selection.html" crc="4016447121" seo="true" mt="1532732933193" redirect="true"/>
-  <file name="marksenter.html" crc="3995105792" seo="true" mt="1532735081340" redirect="true"/>
-  <file name="std.html" crc="285205481" seo="true" mt="1532732007175" redirect="true"/>
-  <file name="admin.html" crc="221920960" seo="true" mt="1532117052394" redirect="false"/>
-  <file name="admin-marks.html" crc="3766885360" seo="true" mt="1532123137690" redirect="false"/>
-  <file name="teacher-assign.html" crc="9823003" seo="true" mt="1532733156307" redirect="true"/>
-  <file name="graph.html" crc="96841730" seo="true" mt="1532732152202" redirect="true"/>
+  <file name="index.html" crc="53835329" seo="true" mt="1532737288945" redirect="true"/>
+  <file name="insti-login.html" crc="3854274116" seo="true" mt="1532737288945" redirect="true"/>
+  <file name="insti-choose.html" crc="422147908" seo="true" mt="1532737288945" redirect="true"/>
+  <file name="details.html" crc="4246984357" seo="true" mt="1532737439230" redirect="true"/>
+  <file name="student-login.html" crc="3838894992" seo="true" mt="1532737288945" redirect="true"/>
+  <file name="teacherlogin.html" crc="288748352" seo="true" mt="1532737288945" redirect="true"/>
+  <file name="edit.html" crc="4292914164" seo="true" mt="1532737288945" redirect="true"/>
+  <file name="class-selection.html" crc="76605534" seo="true" mt="1532737288945" redirect="true"/>
+  <file name="marksenter.html" crc="4099458631" seo="true" mt="1532737288945" redirect="true"/>
+  <file name="std.html" crc="4214563706" seo="true" mt="1532737288945" redirect="true"/>
+  <file name="admin.html" crc="3795073092" seo="true" mt="1532737288945" redirect="true"/>
+  <file name="admin-marks.html" crc="4277553801" seo="true" mt="1532737288945" redirect="true"/>
+  <file name="teacher-assign.html" crc="11928347" seo="true" mt="1532737288945" redirect="true"/>
+  <file name="graph.html" crc="3808255084" seo="true" mt="1532737288945" redirect="true"/>
 </manifest>

@@ -7,8 +7,17 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://appries.com/edit.html</loc>
+    <lastmod>2018-07-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://appries.com/images/empty-profile.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>http://appries.com/insti-login.html</loc>
-    <lastmod>2018-07-21</lastmod>
+    <lastmod>2018-07-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -20,7 +29,7 @@
   </url>
   <url>
     <loc>http://appries.com/details.html</loc>
-    <lastmod>2018-07-22</lastmod>
+    <lastmod>2018-07-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -35,18 +44,15 @@
   </url>
   <url>
     <loc>http://appries.com/teacherlogin.html</loc>
-    <lastmod>2018-07-23</lastmod>
+    <lastmod>2018-07-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://appries.com/edit.html</loc>
-    <lastmod>2018-07-22</lastmod>
+    <loc>http://appries.com/admin.html</loc>
+    <lastmod>2018-07-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://appries.com/images/empty-profile.jpg</image:loc>
-    </image:image>
   </url>
   <url>
     <loc>http://appries.com/class-selection.html</loc>
@@ -67,19 +73,13 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://appries.com/admin.html</loc>
-    <lastmod>2018-07-21</lastmod>
+    <loc>http://appries.com/teacher-assign.html</loc>
+    <lastmod>2018-07-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://appries.com/admin-marks.html</loc>
-    <lastmod>2018-07-21</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://appries.com/teacher-assign.html</loc>
     <lastmod>2018-07-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -87,6 +87,12 @@
   <url>
     <loc>http://appries.com/graph.html</loc>
     <lastmod>2018-07-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://appries.com/assets/rubix-loader.gif</loc>
+    <lastmod>2018-07-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>

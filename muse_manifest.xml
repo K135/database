@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="appries.com" resolutions="1x" timestamp="1532737466314">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="appries.com" resolutions="1x" timestamp="1532737644075">
   <folder name="assets">
     <file name="rubix-loader.gif" crc="4235615436" seo="true" mt="1530961533000"/>
   </folder>
@@ -19,7 +19,7 @@
     <file name="nomq_insti-choose.css" crc="3879874789" ref="insti-choose"/>
     <file name="std.css" crc="4288797233" ref="std"/>
     <file name="teacher-assign.css" crc="256923684" ref="teacher-assign"/>
-    <file name="details.css" crc="4208317955" ref="details"/>
+    <file name="details.css" crc="3960057586" ref="details"/>
     <file name="master_a-master.css" crc="210888416" ref="insti-login:class-selection:teacherlogin:admin:graph:index:admin-marks:edit:marksenter:student-login:insti-choose:std:teacher-assign:details"/>
     <file name="nomq_preview_master_a-master.css" crc="3824530138" ref="insti-login:class-selection:teacherlogin:admin:graph:index:admin-marks:edit:marksenter:student-login:insti-choose:std:teacher-assign"/>
   </folder>
@@ -79,7 +79,7 @@
   <file name="index.html" crc="53835329" seo="true" mt="1532737288945" redirect="true"/>
   <file name="insti-login.html" crc="3854274116" seo="true" mt="1532737288945" redirect="true"/>
   <file name="insti-choose.html" crc="422147908" seo="true" mt="1532737288945" redirect="true"/>
-  <file name="details.html" crc="4246984357" seo="true" mt="1532737439230" redirect="true"/>
+  <file name="details.html" crc="377587151" seo="true" mt="1532737623576" redirect="true"/>
   <file name="student-login.html" crc="3838894992" seo="true" mt="1532737288945" redirect="true"/>
   <file name="teacherlogin.html" crc="288748352" seo="true" mt="1532737288945" redirect="true"/>
   <file name="edit.html" crc="4292914164" seo="true" mt="1532737288945" redirect="true"/>

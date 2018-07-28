@@ -11,7 +11,7 @@
 document.documentElement.className = document.documentElement.className.replace(/\bnojs\b/g, 'js');
 
 // Check that all required assets are uploaded and up-to-date
-if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required":["museutils.js", "museconfig.js", "jquery.watch.js", "webpro.js", "musewpslideshow.js", "jquery.museoverlay.js", "touchswipe.js", "jquery.musepolyfill.bgsize.js", "require.js", "details.css"], "outOfDate":[]};
+if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required":["museutils.js", "museconfig.js", "jquery.watch.js", "jquery.musepolyfill.bgsize.js", "require.js", "webpro.js", "musewpslideshow.js", "jquery.museoverlay.js", "touchswipe.js", "details.css"], "outOfDate":[]};
 </script>
   
   <title>details</title>
@@ -19,6 +19,10 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
   <link rel="stylesheet" type="text/css" href="css/site_global.css?crc=444006867"/>
   <link rel="stylesheet" type="text/css" href="css/master_a-master.css?crc=210888416"/>
   <link rel="stylesheet" type="text/css" href="css/details.css?crc=3960057586" id="pagesheet"/>
+  <!-- IE-only CSS -->
+  <!--[if lt IE 9]>
+  <link rel="stylesheet" type="text/css" href="css/nomq_preview_master_a-master.css?crc=3824530138" id="nomq_pagesheet"/>
+  <![endif]-->
   <!-- Other scripts -->
   <script type="text/javascript">
    var __adobewebfontsappname__ = "muse";
@@ -34,23 +38,7 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
 	})(window,document,'script','dataLayer','GTM-NQWFQPR');</script>
 	
 
-				<style>
-				
-				body,img{
-				-webkit-animation-duration:4s;
-				animation-duration:4s;
-				-webkit-animation-name:load;
-				animation-name:load;
-				}
-				@keyframes load{
-				from {opacity:0;}
-				to {opacity:1;}
-				}
-				@-webkit-keyframes load{
-				from {opacity:0;}
-				to { opacity:1;}
-				}
-				</style>
+				<style>.js body{visibility:visible!important;}</style>
 			
 <style>
 #preloader {
